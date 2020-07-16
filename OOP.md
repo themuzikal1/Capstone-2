@@ -5,6 +5,7 @@ As you should know by now, there are 4 pillars of Object Oriented Programming.
 ********************
 1. Encapsulation
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 
 
@@ -30,6 +31,8 @@ As you should know by now, there are 4 pillars of Object Oriented Programming.
 
 
 =======
+=======
+>>>>>>> 30b0571e315a094a8b524cef01d73db8af608a23
 Encapsulation is the process of wrapping and code and data together into a single unit.  We can create a 
 fully encapsulated class in Java by making all of the data members of the class private.  Variables
 are hidden from each other and only accessible though methods of current class. 
@@ -112,6 +115,7 @@ object.
 public interface Vegetarian{}
 public class Animal{}
 public class Deer extends Animal implements Vegetarian{}
+<<<<<<< HEAD
 >>>>>>> initial commit
 
 
@@ -122,6 +126,8 @@ public class Deer extends Animal implements Vegetarian{}
 4. Polymorphism
    
 
+=======
+>>>>>>> 30b0571e315a094a8b524cef01d73db8af608a23
 
 
 
@@ -129,11 +135,14 @@ public class Deer extends Animal implements Vegetarian{}
 
 Please write 1-3 paragraphs explaining these 4 concepts further.  Please provide a sufficient enough explanation about these pillars, as well as some examples to illustrate the practical use cases of these principles.  
 
+<<<<<<< HEAD
 
 =======
 
 Please write 1-3 paragraphs explaining these 4 concepts further.  Please provide a sufficient enough explanation about these pillars, as well as some examples to illustrate the practical use cases of these principles.  
 
+=======
+>>>>>>> 30b0571e315a094a8b524cef01d73db8af608a23
 **Dependency Inversion - started with the least important class.  Splash Screen.  it does not depend on 
 anther class.  
 
@@ -149,5 +158,8 @@ using the compoents addKeyListener.
 
 **Error handling - if you press ENTER, you get an error message in the status bar that 
 goes away when a valid key is pressed. 
+<<<<<<< HEAD
 >>>>>>> initial commit
+=======
+>>>>>>> 30b0571e315a094a8b524cef01d73db8af608a23
 

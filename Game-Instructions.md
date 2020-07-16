@@ -1,8 +1,11 @@
 ## Game Instructions
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 Place the instructions for how to play your game in this file.  The instructions should be clear enough for any non-technical computer user to understand and follow.
 =======
+=======
+>>>>>>> 30b0571e315a094a8b524cef01d73db8af608a23
 This is a Tetris-like game called TEKtris.  Using the keys listed below, move the piece (TEKtrominoe) to clear each line.  
 To clear a line, it must be filled with TEKtrominoes.  
 
@@ -21,7 +24,10 @@ To clear a line, it must be filled with TEKtrominoes.
 * 'p'--pauses the game. 
 
 When the game starts, the instructions will be in the top left corner of your screen. 
+<<<<<<< HEAD
 >>>>>>> initial commit
+=======
+>>>>>>> 30b0571e315a094a8b524cef01d73db8af608a23
 
 
 

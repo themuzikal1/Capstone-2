@@ -7,6 +7,7 @@
 
 <h2>1. Understanding the Problem</h2>
 <<<<<<< HEAD
+<<<<<<< HEAD
 *
 *
 *
@@ -49,6 +50,8 @@
 *
 *
 =======
+=======
+>>>>>>> 30b0571e315a094a8b524cef01d73db8af608a23
 * Build a terminal-based game using Java and the OOP principles that we have studied.  
 
 * How do I build a game? Where do I start?
@@ -162,5 +165,9 @@ Pun intended...
 
 * This was hard work but lots of fun.  
 
+<<<<<<< HEAD
 * The camp is over in 2 1/2 weeks!!!!
 >>>>>>> initial commit
+=======
+* The camp is over in 2 1/2 weeks!!!!
+>>>>>>> 30b0571e315a094a8b524cef01d73db8af608a23
